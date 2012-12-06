@@ -1,4 +1,4 @@
-ash "Install tilemill" do
+bash "Install tilemill" do
 user "root"
 code <<-EOH
 add-apt-repository ppa:developmentseed/mapbox
