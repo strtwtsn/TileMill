@@ -1,2 +1,2 @@
-{ "run_list": [ "recipe[sqlite3]","recipe[node]","recipe[npm-sqlite3]","recipe[projectmill]","recipe[tilemill]" ] }
+{ "run_list": [ "recipe[sqlite3]","recipe[node]","recipe[npm-sqlite]","recipe[projectmill]","recipe[tilemill]" ] }
 
